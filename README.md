@@ -2,7 +2,9 @@
 # Iris Flower Classification - Beginner ML Project 🌸
 
 This is my first machine learning project!  
-In this notebook, I explore the famous **Iris dataset** using Python and perform basic preprocessing and visualization.
+In this notebook, I explore the famous **Iris dataset** using Python .
+👉 I used two separate `.xlsx` files to explicitly split the data into training and test sets (`iris_data.xlsx` and `iris_test.xlsx`).
+
 
 ## 📌 What I Did
 - Loaded the Iris dataset using `sklearn.datasets`
